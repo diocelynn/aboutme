@@ -48,3 +48,11 @@ p {
   width: 200px;          /* or size you prefer */
   margin: 0 auto 20px;   /* center horizontally + some space below it */
 }
+
+.center-table {
+  text-align: center;
+}
+
+.center-table table {
+  margin: 0 auto;
+}

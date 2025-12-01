@@ -49,5 +49,8 @@ p {
   margin: 0 auto 20px;   /* center horizontally + some space below it */
 }
 
-.centerTable { margin: 0px auto; 
+table {  
+margin-right: auto;  
+margin-left: auto;
+
 }

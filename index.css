@@ -49,10 +49,5 @@ p {
   margin: 0 auto 20px;   /* center horizontally + some space below it */
 }
 
-table {
-  text-align: center;
-}
-
-table table {
-  margin: 0 auto;
+.centerTable { margin: 0px auto; 
 }

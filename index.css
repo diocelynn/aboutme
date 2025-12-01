@@ -1,13 +1,14 @@
 /* --- Page Layout --- */
 body {
     font-family: Arial, sans-serif;
-    background-color: #faf9f6;   /* soft off-white background */
-    margin: 0;
-    padding: 0;
     display: flex;
     justify-content: center;
     text-align: center;
-}
+    background-color: #f5e9d3;   /* beige */
+    padding: 10px 15px;
+    border-radius: 8px;
+    color: #333;
+    margin-top: 40px;
 }
 
 .container {

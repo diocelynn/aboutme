@@ -45,8 +45,9 @@ ul {
 }
 
 /* --- Profile Picture --- */
-.about-me-header {
-  text-align: center;    /* centers the content */
+.diocelyn-cruz-header {
+  text-align: center; /* centers the content */
+    justify-content: center;
 }
 
 .profile-photo {

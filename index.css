@@ -38,15 +38,10 @@ h2 {
 }
 
 /* --- Text Styling --- */
-p, li {
+p {
     font-size: 18px;
     line-height: 1.6;
 }
-
-ul {
-    margin-left: 20px;
-}
-
 
 .profile-photo {
   display: block;
